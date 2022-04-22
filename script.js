@@ -48,3 +48,4 @@ greenBackground.addEventListener("click", function (){
     ulMenu.classList.remove("visible");
     textBackground.innerHTML = "Green Background";
 });
+ console.log('practiceforgitpush');
